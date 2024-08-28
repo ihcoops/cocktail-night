@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+.great-vibes-regular {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background: linear-gradient(#e66465, #9198e5);
+}
+
+.accordion-header {
+  opacity: 1;
+}
+.accordion {
+  background-color: #ffffff;
+  opacity: 0.6;
+  border-radius: 10px;
+}
+
+.accordion-button:focus {
+  outline: none;
+  box-shadow: none;
+}
